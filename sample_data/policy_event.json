@@ -1,0 +1,9 @@
+{
+  "event_id": "evt_demo_0001",
+  "event_type": "policy.status.changed",
+  "occurred_at": "2026-01-15T14:35:00Z",
+  "policy_id": "POL-DEMO-10001",
+  "status": "active",
+  "source": "synthetic-crm"
+}
+
